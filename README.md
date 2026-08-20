@@ -4,10 +4,12 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [4027-elevator-requests-iii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4027-elevator-requests-iii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [4027-elevator-requests-iii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4027-elevator-requests-iii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -16,9 +18,22 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [4027-elevator-requests-iii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4027-elevator-requests-iii/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4027-elevator-requests-iii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4027-elevator-requests-iii/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 <!---LeetCode Topics End-->
