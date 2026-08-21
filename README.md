@@ -42,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
+| [4022-k-th-digit-in-infinite-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4022-k-th-digit-in-infinite-string/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +51,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4020-elevator-requests-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4020-elevator-requests-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4022-k-th-digit-in-infinite-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4022-k-th-digit-in-infinite-string/) | Medium |
 <!---LeetCode Topics End-->
