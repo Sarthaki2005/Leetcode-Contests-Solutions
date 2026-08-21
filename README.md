@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [4020-elevator-requests-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4020-elevator-requests-i/) | Easy |
 | [4027-elevator-requests-iii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4027-elevator-requests-iii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -45,4 +46,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4020-elevator-requests-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4020-elevator-requests-i/) | Easy |
 <!---LeetCode Topics End-->
