@@ -36,4 +36,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 <!---LeetCode Topics End-->
