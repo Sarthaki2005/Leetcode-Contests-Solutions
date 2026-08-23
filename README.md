@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [4007-widest-possible-fence](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4007-widest-possible-fence/) | Medium |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 | [4020-elevator-requests-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4020-elevator-requests-i/) | Easy |
 | [4027-elevator-requests-iii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4027-elevator-requests-iii/) | Hard |
 ## Dynamic Programming
@@ -58,10 +59,19 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 | [4022-k-th-digit-in-infinite-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4022-k-th-digit-in-infinite-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4006-count-valid-prefixes](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4006-count-valid-prefixes/) | Easy |
 | [4007-widest-possible-fence](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4007-widest-possible-fence/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 <!---LeetCode Topics End-->
