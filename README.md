@@ -7,12 +7,14 @@
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [4007-widest-possible-fence](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4007-widest-possible-fence/) | Medium |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
+| [4009-minimum-possible-maximum-waiting-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4009-minimum-possible-maximum-waiting-time/) | Hard |
 | [4020-elevator-requests-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4020-elevator-requests-i/) | Easy |
 | [4027-elevator-requests-iii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4027-elevator-requests-iii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [4009-minimum-possible-maximum-waiting-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4009-minimum-possible-maximum-waiting-time/) | Hard |
 | [4027-elevator-requests-iii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4027-elevator-requests-iii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -74,4 +76,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4009-minimum-possible-maximum-waiting-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4009-minimum-possible-maximum-waiting-time/) | Hard |
 <!---LeetCode Topics End-->
