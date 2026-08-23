@@ -42,15 +42,28 @@ ll query(int v,int tl,int tr,int l,int r){
     long long minInitialStrength(vector<int>& monsters, vector<vector<int>>& boosts) {
         int n=monsters.size();
         
-        Segment st(n);
+        // Segment st(n);
+        // for(auto ele:boosts){
+        //     st.update(0,0,n-1,ele[0],ele[1],ele[2]);
+        // }
+
+        vector<ll> diff(n+1,0);
         for(auto ele:boosts){
-            st.update(0,0,n-1,ele[0],ele[1],ele[2]);
+            int l=ele[0];int r=ele[1]; ll x=(ll)ele[2];
+            diff[l]+=x;
+            diff[r+1]-=x;
         }
+        vector<ll> pref(n,0);
+        pref[0]=diff[0];
+        for(int i=1;i<n;i++){
+            pref[i]=diff[i]+pref[i-1];
+        }
+        
         ll sum=0;
         for(auto x:monsters){
             sum+=x;
         }
-        long long ans;
+        long long ans=0;
         ll low=0;
         ll high=sum;
         while(low<=high){
@@ -59,7 +72,7 @@ ll query(int v,int tl,int tr,int l,int r){
         ll start=mid;
             bool ok=true;
             for(int i=0;i<n;i++){
-                ll boost=st.query(0,0,n-1,i,i);
+                ll boost=pref[i];
                 if(start+boost>=(ll)monsters[i]){
                     start=max((ll)0,(ll)start-monsters[i]);
                 }else{
