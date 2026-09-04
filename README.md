@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0312-burst-balloons](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -16,6 +17,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0312-burst-balloons](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
@@ -91,12 +93,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 <!---LeetCode Topics End-->
