@@ -12,6 +12,7 @@
 | [3537-fill-a-special-grid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3537-fill-a-special-grid/) | Medium |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3538-merge-operations-for-minimum-travel-time/) | Hard |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3598-longest-common-prefix-between-adjacent-strings-after-removals/) | Medium |
+| [3599-partition-array-to-minimize-xor](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3599-partition-array-to-minimize-xor/) | Medium |
 | [4007-widest-possible-fence](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4007-widest-possible-fence/) | Medium |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 | [4009-minimum-possible-maximum-waiting-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4009-minimum-possible-maximum-waiting-time/) | Hard |
@@ -26,11 +27,13 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3538-merge-operations-for-minimum-travel-time/) | Hard |
+| [3599-partition-array-to-minimize-xor](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3599-partition-array-to-minimize-xor/) | Medium |
 | [4009-minimum-possible-maximum-waiting-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4009-minimum-possible-maximum-waiting-time/) | Hard |
 | [4027-elevator-requests-iii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4027-elevator-requests-iii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3599-partition-array-to-minimize-xor](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3599-partition-array-to-minimize-xor/) | Medium |
 | [4027-elevator-requests-iii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4027-elevator-requests-iii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -95,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3538-merge-operations-for-minimum-travel-time/) | Hard |
+| [3599-partition-array-to-minimize-xor](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3599-partition-array-to-minimize-xor/) | Medium |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
