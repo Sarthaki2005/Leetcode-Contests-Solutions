@@ -35,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [4027-elevator-requests-iii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4027-elevator-requests-iii/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 | [4022-k-th-digit-in-infinite-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4022-k-th-digit-in-infinite-string/) | Medium |
 ## Enumeration
