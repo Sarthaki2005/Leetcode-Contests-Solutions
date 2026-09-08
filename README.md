@@ -11,6 +11,7 @@
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [3537-fill-a-special-grid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3537-fill-a-special-grid/) | Medium |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3538-merge-operations-for-minimum-travel-time/) | Hard |
+| [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3598-longest-common-prefix-between-adjacent-strings-after-removals/) | Medium |
 | [4007-widest-possible-fence](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4007-widest-possible-fence/) | Medium |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 | [4009-minimum-possible-maximum-waiting-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4009-minimum-possible-maximum-waiting-time/) | Hard |
@@ -57,6 +58,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [3597-partition-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3597-partition-string/) | Medium |
+| [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3598-longest-common-prefix-between-adjacent-strings-after-removals/) | Medium |
 | [4006-count-valid-prefixes](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4006-count-valid-prefixes/) | Easy |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Math
