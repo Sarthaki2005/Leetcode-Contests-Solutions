@@ -9,6 +9,7 @@
 | [0312-burst-balloons](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [3538-merge-operations-for-minimum-travel-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3538-merge-operations-for-minimum-travel-time/) | Hard |
 | [4007-widest-possible-fence](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4007-widest-possible-fence/) | Medium |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 | [4009-minimum-possible-maximum-waiting-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4009-minimum-possible-maximum-waiting-time/) | Hard |
@@ -22,6 +23,7 @@
 | [0312-burst-balloons](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [3538-merge-operations-for-minimum-travel-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3538-merge-operations-for-minimum-travel-time/) | Hard |
 | [4009-minimum-possible-maximum-waiting-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4009-minimum-possible-maximum-waiting-time/) | Hard |
 | [4027-elevator-requests-iii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4027-elevator-requests-iii/) | Hard |
 ## Bit Manipulation
@@ -84,6 +86,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3538-merge-operations-for-minimum-travel-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3538-merge-operations-for-minimum-travel-time/) | Hard |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
