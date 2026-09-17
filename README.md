@@ -114,6 +114,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0173-binary-search-tree-iterator](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -142,6 +143,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -171,6 +173,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -191,6 +194,15 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
