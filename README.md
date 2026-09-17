@@ -7,6 +7,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0312-burst-balloons](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0312-burst-balloons/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [3537-fill-a-special-grid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3537-fill-a-special-grid/) | Medium |
@@ -113,11 +114,13 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +147,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -172,6 +176,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -187,4 +192,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
