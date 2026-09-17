@@ -139,6 +139,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -148,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -165,6 +167,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -173,9 +176,15 @@
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Lowest Common Ancestor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
