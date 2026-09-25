@@ -11,6 +11,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3537-fill-a-special-grid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3537-fill-a-special-grid/) | Medium |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3538-merge-operations-for-minimum-travel-time/) | Hard |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3598-longest-common-prefix-between-adjacent-strings-after-removals/) | Medium |
