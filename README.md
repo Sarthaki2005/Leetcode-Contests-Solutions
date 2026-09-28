@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -96,6 +97,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -142,6 +144,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [3537-fill-a-special-grid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3537-fill-a-special-grid/) | Medium |
 ## Divide and Conquer
