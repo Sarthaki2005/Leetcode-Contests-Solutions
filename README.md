@@ -79,6 +79,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0132-palindrome-partitioning-ii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3597-partition-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3597-partition-string/) | Medium |
@@ -122,6 +123,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0173-binary-search-tree-iterator](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -243,4 +246,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
