@@ -61,6 +61,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3597-partition-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3597-partition-string/) | Medium |
 | [4007-widest-possible-fence](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4007-widest-possible-fence/) | Medium |
@@ -74,6 +75,7 @@
 | ------- | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3597-partition-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3597-partition-string/) | Medium |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3598-longest-common-prefix-between-adjacent-strings-after-removals/) | Medium |
 | [4006-count-valid-prefixes](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4006-count-valid-prefixes/) | Easy |
@@ -108,6 +110,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [4006-count-valid-prefixes](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4006-count-valid-prefixes/) | Easy |
 | [4007-widest-possible-fence](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4007-widest-possible-fence/) | Medium |
 ## Greedy
