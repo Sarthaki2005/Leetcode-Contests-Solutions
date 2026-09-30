@@ -80,6 +80,7 @@
 | [0013-roman-to-integer](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0038-count-and-say](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0796-rotate-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -252,4 +253,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
