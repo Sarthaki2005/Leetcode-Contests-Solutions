@@ -58,6 +58,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0132-palindrome-partitioning-ii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -86,6 +88,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 | [4022-k-th-digit-in-infinite-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4022-k-th-digit-in-infinite-string/) | Medium |
