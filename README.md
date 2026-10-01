@@ -59,6 +59,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -78,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0038-count-and-say](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -95,6 +97,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0415-add-strings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0415-add-strings/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
