@@ -80,6 +80,7 @@
 | [0013-roman-to-integer](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0038-count-and-say](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0415-add-strings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0796-rotate-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -93,6 +94,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0415-add-strings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0415-add-strings/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 | [4022-k-th-digit-in-infinite-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4022-k-th-digit-in-infinite-string/) | Medium |
@@ -104,6 +106,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0415-add-strings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0415-add-strings/) | Easy |
 | [3597-partition-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3597-partition-string/) | Medium |
 | [4020-elevator-requests-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4020-elevator-requests-i/) | Easy |
 ## Binary Search
