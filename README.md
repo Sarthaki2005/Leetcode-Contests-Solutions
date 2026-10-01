@@ -49,6 +49,7 @@
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [2785-sort-vowels-in-a-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [4027-elevator-requests-iii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4027-elevator-requests-iii/) | Hard |
 ## Bitmask
@@ -86,6 +87,7 @@
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2785-sort-vowels-in-a-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3597-partition-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3597-partition-string/) | Medium |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3598-longest-common-prefix-between-adjacent-strings-after-removals/) | Medium |
 | [4006-count-valid-prefixes](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4006-count-valid-prefixes/) | Easy |
