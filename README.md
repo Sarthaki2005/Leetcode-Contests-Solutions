@@ -90,6 +90,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3597-partition-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3597-partition-string/) | Medium |
@@ -267,8 +268,25 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0796-rotate-string/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->
