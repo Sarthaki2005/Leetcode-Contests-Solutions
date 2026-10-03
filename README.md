@@ -85,6 +85,7 @@
 | [0013-roman-to-integer](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0038-count-and-say](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0214-shortest-palindrome](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0415-add-strings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0796-rotate-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -260,6 +261,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0214-shortest-palindrome](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +269,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0796-rotate-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Sliding Window
@@ -276,17 +279,21 @@
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->
