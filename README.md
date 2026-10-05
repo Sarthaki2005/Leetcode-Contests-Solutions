@@ -89,6 +89,7 @@
 | [0415-add-strings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0686-repeated-string-match](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0796-rotate-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -157,6 +158,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0173-binary-search-tree-iterator](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
@@ -266,6 +268,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
