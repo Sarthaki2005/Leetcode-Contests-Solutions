@@ -74,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 ## String
@@ -307,4 +308,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0686-repeated-string-match](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0686-repeated-string-match/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
