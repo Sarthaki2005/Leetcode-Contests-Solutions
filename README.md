@@ -315,9 +315,11 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
