@@ -47,6 +47,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -77,6 +78,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0148-sort-list](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 ## String
@@ -185,6 +187,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0148-sort-list/) | Medium |
 | [3537-fill-a-special-grid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3537-fill-a-special-grid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -322,6 +325,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0148-sort-list](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0148-sort-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +340,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0148-sort-list/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
