@@ -184,6 +184,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [3537-fill-a-special-grid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3537-fill-a-special-grid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -317,6 +318,7 @@
 | [0002-add-two-numbers](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -326,4 +328,16 @@
 | [0002-add-two-numbers](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
