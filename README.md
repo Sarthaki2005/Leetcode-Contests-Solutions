@@ -42,6 +42,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [3599-partition-array-to-minimize-xor](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3599-partition-array-to-minimize-xor/) | Medium |
 | [4027-elevator-requests-iii](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4027-elevator-requests-iii/) | Hard |
 ## Sorting
@@ -111,6 +112,7 @@
 | [0002-add-two-numbers](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0415-add-strings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0415-add-strings/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
