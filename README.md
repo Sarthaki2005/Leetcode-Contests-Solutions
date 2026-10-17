@@ -14,6 +14,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -69,6 +70,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -117,6 +119,7 @@
 | [0013-roman-to-integer](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0415-add-strings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0415-add-strings/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 | [4022-k-th-digit-in-infinite-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4022-k-th-digit-in-infinite-string/) | Medium |
@@ -156,6 +159,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3538-merge-operations-for-minimum-travel-time/) | Hard |
 | [3599-partition-array-to-minimize-xor](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3599-partition-array-to-minimize-xor/) | Medium |
@@ -295,6 +299,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Rolling Hash
