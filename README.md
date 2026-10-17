@@ -69,6 +69,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3597-partition-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3597-partition-string/) | Medium |
@@ -100,6 +101,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -293,6 +295,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
