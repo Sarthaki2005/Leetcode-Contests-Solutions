@@ -14,6 +14,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -153,6 +154,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3538-merge-operations-for-minimum-travel-time/) | Hard |
 | [3599-partition-array-to-minimize-xor](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/3599-partition-array-to-minimize-xor/) | Medium |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/4008-minimum-initial-strength-to-defeat-all-monsters/) | Medium |
@@ -291,6 +293,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
