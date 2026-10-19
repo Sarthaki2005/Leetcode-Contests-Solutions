@@ -10,6 +10,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0312-burst-balloons](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -70,6 +71,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -305,6 +307,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
