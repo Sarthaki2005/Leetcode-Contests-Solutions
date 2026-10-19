@@ -9,6 +9,7 @@
 | [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0312-burst-balloons](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0312-burst-balloons/) | Hard |
+| [0485-max-consecutive-ones](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
