@@ -186,6 +186,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0155-min-stack](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -286,6 +287,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Sarthaki2005/Leetcode-Contests-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
