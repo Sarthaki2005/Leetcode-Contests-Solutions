@@ -27,19 +27,22 @@ long long min;
             
         }
         t--;
+        if(t==-1){
+            min=INT_MAX;
+        }
     }
     
     int top() {
         if(t==-1) return -1;
         if(arr[t]<min){
-           return min;
+           return (int)min;
             
         }
-       else  return arr[t];
+       else  return (int)arr[t];
     }
     
     int getMin() {
-        return min;
+        return (int)min;
     }
 };
 
